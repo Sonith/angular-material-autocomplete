@@ -1,3 +1,11 @@
+/*
+
+Written for Rentping.
+If you can, then leave this comment as it is.
+v1.0
+
+*/
+
 angular.module('angular-material-autocomplete', []).directive('mAutoComplete', mAutoComplete);
 
 function mAutoComplete() {
