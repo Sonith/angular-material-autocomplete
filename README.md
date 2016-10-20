@@ -21,7 +21,8 @@ var app = angular.module('ModuleName', ['angular-material-autocomplete']);
 
 Use the directive in your HTML files with the following code:
 ```html
-<m-auto-complete flex="80" layout="column" placeholder="Enter comment" suggestions="viewModel.autoCompleteSuggestionsArray" ng-model="viewModel.comment"></m-auto-complete>```
+<m-auto-complete flex="80" layout="column" placeholder="Enter comment" suggestions="viewModel.autoCompleteSuggestionsArray" ng-model="viewModel.comment"></m-auto-complete>
+```
 
 ### Parameters
 - suggestions (array: required)
