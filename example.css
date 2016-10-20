@@ -1,0 +1,8 @@
+.selected-border {
+  background: #eeeeee;
+}
+
+.remove-padding-margin {
+  padding: 0px;
+  margin: 0px;
+}
